@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace WebsiteScrapingBot
 {
-
     public class JFWebScraperResponse
     {
         public bool success = false;
@@ -50,24 +49,24 @@ namespace WebsiteScrapingBot
         {
             var favicon = "default";
 
-            var el = websiteData.DocumentNode.SelectSingleNode("/html/head/link[@rel='icon' and @href]");
-            var el1 = websiteData.DocumentNode.SelectSingleNode("/html/head/link[@rel='shortcut icon' and @href]");
-            var el2 = websiteData.DocumentNode.SelectSingleNode("/html/head/link[@rel='icon shortcut' and @href]");
+            var tagSearch1 = websiteData.DocumentNode.SelectSingleNode("/html/head/link[@rel='icon' and @href]");
+            var tagSearch2 = websiteData.DocumentNode.SelectSingleNode("/html/head/link[@rel='shortcut icon' and @href]");
+            var tagSearch3 = websiteData.DocumentNode.SelectSingleNode("/html/head/link[@rel='icon shortcut' and @href]");
 
             var found = false;
-            if (el != null)
+            if (tagSearch1 != null)
             {
-                favicon = el.Attributes["href"].Value;
+                favicon = tagSearch1.Attributes["href"].Value;
                 found = true;
             }
-            else if (el1 != null)
+            else if (tagSearch2 != null)
             {
-                favicon = el1.Attributes["href"].Value;
+                favicon = tagSearch2.Attributes["href"].Value;
                 found = true;
             }
-            else if (el2 != null)
+            else if (tagSearch3 != null)
             {
-                favicon = el2.Attributes["href"].Value;
+                favicon = tagSearch3.Attributes["href"].Value;
                 found = true;
             }
 
@@ -79,7 +78,6 @@ namespace WebsiteScrapingBot
                     favicon = website + favicon;
                 }
             }
-
             return favicon;
         }
     }
