@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L/uWW/nQfY/Df4a327siG8P2XUd9ncpyVk2A+VCZZ41YUHW3rkzn7uA/QDvcKx+/mJbvufLWJjm2UQVh8R29tw==",
+  "success": true,
+  "projectFilePath": "C:\\git\\JFWebScraper\\WebsiteScrapingBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonat\\.nuget\\packages\\htmlagilitypack\\1.11.28\\htmlagilitypack.1.11.28.nupkg.sha512"
+  ],
+  "logs": []
+}

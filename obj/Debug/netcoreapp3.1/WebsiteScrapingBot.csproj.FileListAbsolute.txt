@@ -1,0 +1,15 @@
+C:\Users\jonat\source\repos\WebsiteScrapingBot\bin\Debug\netcoreapp3.1\WebsiteScrapingBot.exe
+C:\Users\jonat\source\repos\WebsiteScrapingBot\obj\Debug\netcoreapp3.1\WebsiteScrapingBot.csprojAssemblyReference.cache
+C:\Users\jonat\source\repos\WebsiteScrapingBot\obj\Debug\netcoreapp3.1\WebsiteScrapingBot.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\WebsiteScrapingBot\obj\Debug\netcoreapp3.1\WebsiteScrapingBot.AssemblyInfo.cs
+C:\Users\jonat\source\repos\WebsiteScrapingBot\bin\Debug\netcoreapp3.1\WebsiteScrapingBot.deps.json
+C:\Users\jonat\source\repos\WebsiteScrapingBot\bin\Debug\netcoreapp3.1\WebsiteScrapingBot.runtimeconfig.json
+C:\Users\jonat\source\repos\WebsiteScrapingBot\bin\Debug\netcoreapp3.1\WebsiteScrapingBot.runtimeconfig.dev.json
+C:\Users\jonat\source\repos\WebsiteScrapingBot\bin\Debug\netcoreapp3.1\WebsiteScrapingBot.dll
+C:\Users\jonat\source\repos\WebsiteScrapingBot\bin\Debug\netcoreapp3.1\WebsiteScrapingBot.pdb
+C:\Users\jonat\source\repos\WebsiteScrapingBot\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\jonat\source\repos\WebsiteScrapingBot\obj\Debug\netcoreapp3.1\WebsiteScrapingBot.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\WebsiteScrapingBot\obj\Debug\netcoreapp3.1\WebsiteScrapingBot.csproj.CopyComplete
+C:\Users\jonat\source\repos\WebsiteScrapingBot\obj\Debug\netcoreapp3.1\WebsiteScrapingBot.dll
+C:\Users\jonat\source\repos\WebsiteScrapingBot\obj\Debug\netcoreapp3.1\WebsiteScrapingBot.pdb
+C:\Users\jonat\source\repos\WebsiteScrapingBot\obj\Debug\netcoreapp3.1\WebsiteScrapingBot.genruntimeconfig.cache
